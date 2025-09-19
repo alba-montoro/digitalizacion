@@ -3,6 +3,7 @@
 ### Encabezado de nivel 3
 #### Encabezado de nivel 4
 ##### Encabezado de nivel 5
+###### Encabezado de nivel 6
 
 
   **negrita**
