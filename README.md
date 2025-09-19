@@ -20,3 +20,5 @@
 
 <!-- este es el tutorial que estamos siguiendo para hacer este README -->
 [Tutorial de Markdown](https://www.eniun.com/tutorial-markdown/)
+
+![Foto del instituto]("C:\Users\USUARIOM\WALLPAPER-LUIS.jpg")
