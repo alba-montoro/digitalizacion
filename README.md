@@ -5,6 +5,7 @@
 ##### Encabezado de nivel 5
 ###### Encabezado de nivel 6
 
+---
 
   **negrita**
   *cursiva*
