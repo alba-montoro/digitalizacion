@@ -3,9 +3,9 @@
 ### Encabezado de nivel 3
 
 
-**negrita**
-*cursiva*
-~~tachado~~
+  **negrita**
+  *cursiva*
+  ~~tachado~~
 ---
 
 - Elemento 0
