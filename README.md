@@ -18,5 +18,5 @@
 2. Elemento 2
 3. Elemento 3
 
-<!-- comentario -->
-[Tutorial](https://www.eniun.com/tutorial-markdown/)
+<!-- este es el tutorial que estamos siguiendo para hacer este README -->
+[Tutorial de Markdown](https://www.eniun.com/tutorial-markdown/)
